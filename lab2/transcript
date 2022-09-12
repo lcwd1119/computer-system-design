@@ -1,0 +1,46 @@
+# Reading D:/Program Files/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile {C:/Users/d4050/Documents/program/digital system/lab2/lab2.mpf} 
+# Loading project lab2
+# reading D:\Program Files\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini
+cd {C:/Users/d4050/Documents/program/digital system/lab2/modelsim}
+# reading modelsim.ini
+do compile.do
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module testALU
+# 
+# Top level modules:
+# 	testALU
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module ALU
+# 
+# Top level modules:
+# 	ALU
+do sim.do
+# vsim -voptargs=+acc work.testALU 
+# Loading work.testALU
+# Loading work.ALU
+# .main_pane.structure.interior.cs.body.struct .main_pane.wave.interior.cs.body.pw.wf .main_pane.objects.interior.cs.body.tree
+# Break in Module testALU at ./testALU.v line 22
+# Simulation Breakpoint: Break in Module testALU at ./testALU.v line 22
+# MACRO ./sim.do PAUSED at line 7
+quit -sim
+do compile.do
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module testALU
+# 
+# Top level modules:
+# 	testALU
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module ALU
+# 
+# Top level modules:
+# 	ALU
+do sim.do
+# vsim -voptargs=+acc work.testALU 
+# Loading work.testALU
+# Loading work.ALU
+# .main_pane.structure.interior.cs.body.struct .main_pane.wave.interior.cs.body.pw.wf .main_pane.objects.interior.cs.body.tree
+# Break in Module testALU at ./testALU.v line 20
+# Simulation Breakpoint: Break in Module testALU at ./testALU.v line 20
+# MACRO ./sim.do PAUSED at line 7
+quit -sim

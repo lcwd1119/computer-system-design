@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\d4050\Documents\program\digital system\lab2\modelsim
+vALU
+!i10b 1
+Z1 !s100 0aH[gkS[a9C5GVc0F=4WJ0
+Z2 IV`JmP]zkAaoVzE1zejOF@0
+Z3 V7TMP9LAZTJEYdDa@20NnY2
+Z4 dC:\Users\d4050\Documents\program\digital system\lab2\modelsim
+Z5 w1633797945
+Z6 8../ALU.v
+Z7 F../ALU.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1633798381.965000
+!s107 ../ALU.v|
+Z9 !s90 -reportprogress|300|../ALU.v|
+!s101 -O0
+o-O0
+Z10 n@a@l@u
+vtestALU
+Z11 I5^Wf4OCX]jRLO[SPOmI=30
+Z12 VM1YWmWi;RkWjklg>8U4@Q0
+R4
+Z13 w1633798363
+Z14 8./testALU.v
+Z15 F./testALU.v
+L0 3
+R8
+r1
+31
+Z16 !s90 -reportprogress|300|./testALU.v|
+o-O0
+Z17 ntest@a@l@u
+!i10b 1
+Z18 !s100 k<Iz1F]QeY4eDLYPkB8BG2
+!s85 0
+Z19 !s108 1633798381.813000
+Z20 !s107 ./testALU.v|
+!s101 -O0

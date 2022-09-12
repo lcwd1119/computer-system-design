@@ -1,0 +1,84 @@
+module CounterWithController (
+    input clk,
+    input rst,
+    input loadw,
+    output reg finalout
+);
+reg [3:0] counter1_out,counter2_out;
+reg next_state,cp1,cp2;
+always @(negedge clk) begin
+    if (rst)
+        counter1_out <= 0;
+    else if(cp1)
+        counter1_out <= counter1_out+1;
+end
+
+always @(negedge clk) begin
+    if (rst)
+        counter2_out <= 0;
+    else if(cp2)
+            counter2_out <= counter2_out+1;
+end
+
+always @(*) begin
+    next_state = 0;
+    cp1 = 0;
+    cp2 = 0;
+    case (next_state)
+        0:
+        begin
+            cp1 = 1;
+            cp2 = 1;
+            next_state = 1;
+        end
+        1:
+        begin
+            cp1 = 1;
+            cp2 = 1;
+            next_state = 2;
+        end
+        2:
+        begin
+            cp1 = 1;
+            cp2 = 1;
+            next_state = 3;
+        end
+        3:
+        begin
+            cp1 = 1;
+            cp2 = 1;
+            next_state = 4;
+        end
+        4:begin
+            cp1 = 1;
+            next_state = 5;
+        end
+        5:begin
+            cp1 = 1;
+            next_state = 6;
+        end
+        6:begin
+            cp1 = 1;
+            next_state = 7;
+        end
+        7:begin
+            cp1 = 1;
+            next_state = 8;
+        end
+        8:
+        begin
+            cp1 = 1;
+            next_state = 9;
+        end
+        9: 
+        begin
+            next_state = 9;
+        end
+    endcase
+end
+
+always @(*) begin
+    finalout=(loadw)?counter1_out+counter2_out:finalout;
+end
+    
+endmodule

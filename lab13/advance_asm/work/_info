@@ -1,0 +1,101 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\d4050\Documents\program\digital system\lab13\advance_asm
+vcpu
+Z1 !s100 LzVVH5:O5OZW`]FG6Zf<F0
+Z2 I3TP]_C@PfHz_77iHBjk@J2
+Z3 VA6EXoD?Vi7Gj?83=:jHB<1
+Z4 dC:\Users\d4050\Documents\program\digital system\lab13\advance_asm
+Z5 w1641182588
+Z6 8C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/cpu.v
+Z7 FC:/Users/d4050/Documents/program/digital system/lab13/advance_asm/cpu.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/cpu.v|
+Z10 o-work work -O0
+Z11 !s108 1641182860.953000
+Z12 !s107 C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vProgram_Rom
+!i10b 1
+Z13 !s100 3cid;:z]IiL@8RCb>CP3;2
+Z14 ITB:21M[Zjbib[fdf=:oom2
+Z15 V[J?EiRjB;A1Y`=EzF>j9K0
+R4
+Z16 w1641182653
+Z17 8C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/Program_Rom.v
+Z18 FC:/Users/d4050/Documents/program/digital system/lab13/advance_asm/Program_Rom.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1641182861.273000
+!s107 C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/Program_Rom.v|
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/Program_Rom.v|
+!s101 -O0
+R10
+Z20 n@program_@rom
+vsingle_port_ram_128x8
+Z21 !s100 dkB_TI9@m:K0nz0_3L1RQ3
+Z22 IO3U6oA8Z1e74dn`59SoC[0
+Z23 VzZNV<GVAnfl2nc:TUS4Zc0
+R4
+Z24 w1637547992
+Z25 8C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/single_port_ram_128x8.v
+Z26 FC:/Users/d4050/Documents/program/digital system/lab13/advance_asm/single_port_ram_128x8.v
+L0 4
+R8
+r1
+31
+Z27 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/single_port_ram_128x8.v|
+R10
+Z28 !s108 1641182861.094000
+Z29 !s107 C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/single_port_ram_128x8.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vstack
+Z30 !s100 S<Q@1_a]LmX025?ZmaiBD1
+Z31 Ibh:?D6ZI=;480FV;eDkBj1
+Z32 VWPZMb5BXYKKC[=?Ri`_=K0
+R4
+Z33 w1640001837
+Z34 8C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/stack.v
+Z35 FC:/Users/d4050/Documents/program/digital system/lab13/advance_asm/stack.v
+L0 1
+R8
+r1
+31
+Z36 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/stack.v|
+R10
+Z37 !s108 1641182861.155000
+Z38 !s107 C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/stack.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtest_cpu
+Z39 IDRY_^Y]DfXO_W@OB8YC3g1
+Z40 VlTnbl^OCFK2X:Y3?FCg4z2
+R4
+Z41 w1641182858
+Z42 8C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/test_cpu.v
+Z43 FC:/Users/d4050/Documents/program/digital system/lab13/advance_asm/test_cpu.v
+L0 1
+R8
+r1
+31
+Z44 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/test_cpu.v|
+R10
+!i10b 1
+Z45 !s100 8_DniimMFN;0:58AG;odF2
+!s85 0
+Z46 !s108 1641182861.212000
+Z47 !s107 C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/test_cpu.v|
+!s101 -O0

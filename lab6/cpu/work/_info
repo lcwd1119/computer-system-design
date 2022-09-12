@@ -1,0 +1,63 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\d4050\Documents\program\digital system\lab5\cpu
+vcpu
+Z1 INDL`MOLaDIJGFREcTTikB3
+Z2 Vni_;>nHA[mKMzBCCaAk<K1
+Z3 dC:\Users\d4050\Documents\program\digital system\lab6\cpu
+Z4 w1636344670
+Z5 8C:\Users\d4050\Documents\program\digital system\lab6\cpu\cpu.v
+Z6 FC:\Users\d4050\Documents\program\digital system\lab6\cpu\cpu.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:\Users\d4050\Documents\program\digital system\lab6\cpu\cpu.v|
+Z9 o-work work -O0
+Z10 !s100 [0zA>?kG<z4d1i8P[40A01
+Z11 !s108 1636344675.538000
+Z12 !s107 C:\Users\d4050\Documents\program\digital system\lab6\cpu\cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vROM
+Z13 !s100 6TG<gRUz9NNB@XcJDMOEC2
+Z14 IlZ_iNT@bO8[>7PRNm=4cZ1
+Z15 V4h6?C4o8EOkH86`2GYCjC0
+R3
+Z16 w1636340767
+Z17 8C:\Users\d4050\Documents\program\digital system\lab6\cpu\ROM.v
+Z18 FC:\Users\d4050\Documents\program\digital system\lab6\cpu\ROM.v
+L0 1
+R7
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:\Users\d4050\Documents\program\digital system\lab6\cpu\ROM.v|
+R9
+Z20 n@r@o@m
+!i10b 1
+!s85 0
+Z21 !s108 1636344675.831000
+Z22 !s107 C:\Users\d4050\Documents\program\digital system\lab6\cpu\ROM.v|
+!s101 -O0
+vtest_cpu
+!i10b 1
+Z23 !s100 19REM`?XzPjEJOcQTa`R^1
+Z24 I`0HQOWk@eJl^lh?InKOX:0
+Z25 VlTnbl^OCFK2X:Y3?FCg4z2
+R3
+Z26 w1636344261
+Z27 8C:\Users\d4050\Documents\program\digital system\lab6\cpu\test_cpu.v
+Z28 FC:\Users\d4050\Documents\program\digital system\lab6\cpu\test_cpu.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1636344676.018000
+!s107 C:\Users\d4050\Documents\program\digital system\lab6\cpu\test_cpu.v|
+Z29 !s90 -reportprogress|300|-work|work|C:\Users\d4050\Documents\program\digital system\lab6\cpu\test_cpu.v|
+!s101 -O0
+R9

@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\d4050\Documents\program\digital system
+vALU
+!i10b 1
+Z1 !s100 ZMm<P^MhM>9gcdi424bM?2
+Z2 I2oGiT4hHz_i1eQ1e<N^i]1
+Z3 V7TMP9LAZTJEYdDa@20NnY2
+Z4 dC:\Users\d4050\Documents\program\digital system\lab2
+Z5 w1633794968
+Z6 8C:/Users/d4050/Documents/program/digital system/lab2/ALU.v
+Z7 FC:/Users/d4050/Documents/program/digital system/lab2/ALU.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1633797347.928000
+!s107 C:/Users/d4050/Documents/program/digital system/lab2/ALU.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab2/ALU.v|
+!s101 -O0
+Z10 o-work work -O0
+Z11 n@a@l@u
+vtestALU
+Z12 Ijb<6f_FzTA5[Wl]iRFEU71
+Z13 VM1YWmWi;RkWjklg>8U4@Q0
+R4
+Z14 w1633797344
+Z15 8C:/Users/d4050/Documents/program/digital system/lab2/testALU.v
+Z16 FC:/Users/d4050/Documents/program/digital system/lab2/testALU.v
+L0 1
+R8
+r1
+31
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab2/testALU.v|
+R10
+Z18 ntest@a@l@u
+!i10b 1
+Z19 !s100 <FNl?N5P]>i2B=HRD>1JJ1
+!s85 0
+Z20 !s108 1633797347.866000
+Z21 !s107 C:/Users/d4050/Documents/program/digital system/lab2/testALU.v|
+!s101 -O0

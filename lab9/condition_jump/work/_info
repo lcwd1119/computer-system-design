@@ -1,0 +1,82 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\d4050\Documents\program\digital system\lab8\reg_addr_all
+vcpu
+Z1 IcfS1Bii>gJX8R@ifQNmEz1
+Z2 VVLSQVd:i>e;=i>O^K>dVf3
+Z3 dC:\Users\d4050\Documents\program\digital system\lab9\condition_jump
+Z4 w1638768021
+Z5 8C:/Users/d4050/Documents/program/digital system/lab9/condition_jump/cpu.v
+Z6 FC:/Users/d4050/Documents/program/digital system/lab9/condition_jump/cpu.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab9/condition_jump/cpu.v|
+Z9 o-work work -O0
+Z10 !s100 >0WV[UGSe>FLR2`loN7>73
+Z11 !s108 1638768025.709000
+Z12 !s107 C:/Users/d4050/Documents/program/digital system/lab9/condition_jump/cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vProgram_Rom
+Z13 !s100 W?<F[4H;26>9Xz]Fz3Hb91
+Z14 IW_n?h2OOO_^D0F=Xd[bLP1
+Z15 V[J?EiRjB;A1Y`=EzF>j9K0
+R3
+Z16 w1638766344
+Z17 8C:\Users\d4050\Documents\program\digital system\lab9\condition_jump\Program_Rom.v
+Z18 FC:\Users\d4050\Documents\program\digital system\lab9\condition_jump\Program_Rom.v
+L0 1
+R7
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:\Users\d4050\Documents\program\digital system\lab9\condition_jump\Program_Rom.v|
+R9
+Z20 n@program_@rom
+Z21 !s108 1638768025.538000
+Z22 !s107 C:\Users\d4050\Documents\program\digital system\lab9\condition_jump\Program_Rom.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsingle_port_ram_128x8
+Z23 !s100 4Am6AeK[YzR2`N`Qo^e_i0
+Z24 I8z_lgbW59kB9oh1_;o5=01
+Z25 VzZNV<GVAnfl2nc:TUS4Zc0
+R3
+Z26 w1637547992
+Z27 8C:/Users/d4050/Documents/program/digital system/lab9/condition_jump/single_port_ram_128x8.v
+Z28 FC:/Users/d4050/Documents/program/digital system/lab9/condition_jump/single_port_ram_128x8.v
+L0 4
+R7
+r1
+31
+Z29 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab9/condition_jump/single_port_ram_128x8.v|
+R9
+!i10b 1
+!s85 0
+Z30 !s108 1638768025.801000
+Z31 !s107 C:/Users/d4050/Documents/program/digital system/lab9/condition_jump/single_port_ram_128x8.v|
+!s101 -O0
+vtest_cpu
+!i10b 1
+Z32 !s100 6LmSbcXeI4c]QPd@=f6RH1
+Z33 IO`61AYl?a;MOdTC<8TBgC1
+Z34 VlTnbl^OCFK2X:Y3?FCg4z2
+R3
+Z35 w1637854669
+Z36 8C:/Users/d4050/Documents/program/digital system/lab9/condition_jump/test_cpu.v
+Z37 FC:/Users/d4050/Documents/program/digital system/lab9/condition_jump/test_cpu.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1638768025.873000
+!s107 C:/Users/d4050/Documents/program/digital system/lab9/condition_jump/test_cpu.v|
+Z38 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab9/condition_jump/test_cpu.v|
+!s101 -O0
+R9

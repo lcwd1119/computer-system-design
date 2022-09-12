@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\d4050\Documents\program\digital system\lab2-2\BCD_counter
+vclock
+Z1 I]X=l_3P1BNW=>G[@[zD>@2
+Z2 VoC;jo`jjDb;ioESc>zU[g0
+Z3 dC:\Users\d4050\Documents\program\digital system\lab2-2\clock
+Z4 w1633808731
+Z5 8C:/Users/d4050/Documents/program/digital system/lab2-2/clock/clock.v
+Z6 FC:/Users/d4050/Documents/program/digital system/lab2-2/clock/clock.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab2-2/clock/clock.v|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 HV_kV8Hn9F`1aKZJG9?JO3
+!s85 0
+Z11 !s108 1633808735.781000
+Z12 !s107 C:/Users/d4050/Documents/program/digital system/lab2-2/clock/clock.v|
+!s101 -O0
+vtest_clock
+!i10b 1
+Z13 !s100 :m5>zU9eaehgh>6fAGYh;1
+Z14 IE`Ae:DfZN>AIIElXE<jgk2
+Z15 Vg26n_6WQFkliaMRgG5Xgi0
+R3
+w1633808733
+Z16 8C:/Users/d4050/Documents/program/digital system/lab2-2/clock/test_clock.v
+Z17 FC:/Users/d4050/Documents/program/digital system/lab2-2/clock/test_clock.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1633808735.850000
+!s107 C:/Users/d4050/Documents/program/digital system/lab2-2/clock/test_clock.v|
+Z18 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab2-2/clock/test_clock.v|
+!s101 -O0
+R9

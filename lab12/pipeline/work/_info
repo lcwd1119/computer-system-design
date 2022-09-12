@@ -1,0 +1,139 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\d4050\Documents\program\digital system\lab11\jump_cmd
+vcpu
+Z1 !s100 ;`81[L?lN`kI:H?5NCE872
+Z2 IdQe=Ia8HME>N2PO94WViN2
+Z3 VA6EXoD?Vi7Gj?83=:jHB<1
+Z4 dC:\Users\d4050\Documents\program\digital system\lab12\pipeline
+Z5 w1640800230
+Z6 8C:/Users/d4050/Documents/program/digital system/lab12/pipeline/cpu.v
+Z7 FC:/Users/d4050/Documents/program/digital system/lab12/pipeline/cpu.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab12/pipeline/cpu.v|
+Z10 o-work work -O0
+Z11 !s108 1640801783.060000
+Z12 !s107 C:/Users/d4050/Documents/program/digital system/lab12/pipeline/cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vProgram_Rom
+!i10b 1
+!s100 0=TEYgWX2oS1VJUPHE^Sd1
+I?IT92T3]oVgi7AT:l7Xoh3
+Z13 V[J?EiRjB;A1Y`=EzF>j9K0
+R4
+w1640801749
+Z14 8C:/Users/d4050/Documents/program/digital system/lab12/pipeline/Program_Rom.v
+Z15 FC:/Users/d4050/Documents/program/digital system/lab12/pipeline/Program_Rom.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1640801783.361000
+!s107 C:/Users/d4050/Documents/program/digital system/lab12/pipeline/Program_Rom.v|
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab12/pipeline/Program_Rom.v|
+!s101 -O0
+R10
+Z17 n@program_@rom
+vsegment7
+Z18 !s100 mAg;<KlALZVl6;Wzzb<1i1
+Z19 IM2@aSY]bEIXn=NbgdnRGF0
+Z20 Ve^:;OQi_mdc29IdJX028`0
+R4
+Z21 w1640577829
+Z22 8C:\Users\d4050\Documents\program\digital system\lab12\pipeline\7segment_decoder.v
+Z23 FC:\Users\d4050\Documents\program\digital system\lab12\pipeline\7segment_decoder.v
+L0 1
+R8
+r1
+31
+Z24 !s90 -reportprogress|300|-work|work|C:\Users\d4050\Documents\program\digital system\lab12\pipeline\7segment_decoder.v|
+R10
+Z25 !s108 1640578900.123000
+Z26 !s107 C:\Users\d4050\Documents\program\digital system\lab12\pipeline\7segment_decoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vseven_seg_decoder
+Z27 !s100 ;eTI9`0YeP5>8SBUAUTa12
+Z28 INWGlZ6SkgGKMSPX0P_]bX2
+Z29 V4HFO@1PZ;[2Z]lhA@9Ho;2
+R4
+Z30 w1640685092
+Z31 8C:/Users/d4050/Documents/program/digital system/lab12/pipeline/7segment_decoder.v
+Z32 FC:/Users/d4050/Documents/program/digital system/lab12/pipeline/7segment_decoder.v
+L0 1
+R8
+r1
+31
+Z33 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab12/pipeline/7segment_decoder.v|
+R10
+!i10b 1
+!s85 0
+Z34 !s108 1640801783.302000
+Z35 !s107 C:/Users/d4050/Documents/program/digital system/lab12/pipeline/7segment_decoder.v|
+!s101 -O0
+vsingle_port_ram_128x8
+Z36 !s100 bNi8Q9ohKJJRd^g:JC@mB3
+Z37 IP_3ec81HiV2JV4=Fndb`13
+Z38 VzZNV<GVAnfl2nc:TUS4Zc0
+R4
+Z39 w1637547992
+Z40 8C:/Users/d4050/Documents/program/digital system/lab12/pipeline/single_port_ram_128x8.v
+Z41 FC:/Users/d4050/Documents/program/digital system/lab12/pipeline/single_port_ram_128x8.v
+L0 4
+R8
+r1
+31
+Z42 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab12/pipeline/single_port_ram_128x8.v|
+R10
+Z43 !s108 1640801783.133000
+Z44 !s107 C:/Users/d4050/Documents/program/digital system/lab12/pipeline/single_port_ram_128x8.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vstack
+Z45 !s100 eVFiN2PgN5Y;<_CEnohl31
+Z46 IHOjBnO@R?SZ6@j1;NgfdH0
+Z47 VWPZMb5BXYKKC[=?Ri`_=K0
+R4
+Z48 w1640001837
+Z49 8C:/Users/d4050/Documents/program/digital system/lab12/pipeline/stack.v
+Z50 FC:/Users/d4050/Documents/program/digital system/lab12/pipeline/stack.v
+L0 1
+R8
+r1
+31
+Z51 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab12/pipeline/stack.v|
+R10
+Z52 !s108 1640801783.188000
+Z53 !s107 C:/Users/d4050/Documents/program/digital system/lab12/pipeline/stack.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtest_cpu
+Z54 !s100 C6Hl8?J4zMH89Mi<9XJjJ3
+Z55 IkaZGjn4DOfGjHk`2Onc;11
+Z56 VlTnbl^OCFK2X:Y3?FCg4z2
+R4
+Z57 w1640799395
+Z58 8C:/Users/d4050/Documents/program/digital system/lab12/pipeline/test_cpu.v
+Z59 FC:/Users/d4050/Documents/program/digital system/lab12/pipeline/test_cpu.v
+L0 1
+R8
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab12/pipeline/test_cpu.v|
+R10
+Z61 !s108 1640801783.247000
+Z62 !s107 C:/Users/d4050/Documents/program/digital system/lab12/pipeline/test_cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0

@@ -1,0 +1,101 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\d4050\Documents\program\digital system\lab10\reg_addr
+vcpu
+Z1 !s100 7iMkCAPWPWL[fnigCJ`ZR0
+Z2 Ih5LX`7CRbL^z3F9zKddC63
+Z3 VVLSQVd:i>e;=i>O^K>dVf3
+Z4 dC:\Users\d4050\Documents\program\digital system\lab11\jump_cmd
+Z5 w1640018882
+Z6 8C:\Users\d4050\Documents\program\digital system\lab11\jump_cmd\cpu.v
+Z7 FC:\Users\d4050\Documents\program\digital system\lab11\jump_cmd\cpu.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:\Users\d4050\Documents\program\digital system\lab11\jump_cmd\cpu.v|
+Z10 o-work work -O0
+Z11 !s108 1640259995.407000
+Z12 !s107 C:\Users\d4050\Documents\program\digital system\lab11\jump_cmd\cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vProgram_Rom
+!i10b 1
+!s100 9;e=NVmcUU3m>:eFd53h?1
+Ic[_]F1N38Ob6`6F^3B?>P0
+Z13 V[J?EiRjB;A1Y`=EzF>j9K0
+R4
+w1640259980
+Z14 8C:/Users/d4050/Documents/program/digital system/lab11/jump_cmd/Program_Rom.v
+Z15 FC:/Users/d4050/Documents/program/digital system/lab11/jump_cmd/Program_Rom.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1640259995.716000
+!s107 C:/Users/d4050/Documents/program/digital system/lab11/jump_cmd/Program_Rom.v|
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab11/jump_cmd/Program_Rom.v|
+!s101 -O0
+R10
+Z17 n@program_@rom
+vsingle_port_ram_128x8
+Z18 !s100 TaJmnod^D:Z?AOo9;0M`G2
+Z19 ILJAP:QAPVWk1;0P=bHS;F1
+Z20 VzZNV<GVAnfl2nc:TUS4Zc0
+R4
+Z21 w1637547992
+Z22 8C:/Users/d4050/Documents/program/digital system/lab11/jump_cmd/single_port_ram_128x8.v
+Z23 FC:/Users/d4050/Documents/program/digital system/lab11/jump_cmd/single_port_ram_128x8.v
+L0 4
+R8
+r1
+31
+Z24 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab11/jump_cmd/single_port_ram_128x8.v|
+R10
+Z25 !s108 1640259995.551000
+Z26 !s107 C:/Users/d4050/Documents/program/digital system/lab11/jump_cmd/single_port_ram_128x8.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vstack
+Z27 !s100 28[?HJGglg;`z`ljP7fOI1
+Z28 IKGHZjW@X48YXf=O`4TZbG0
+Z29 VWPZMb5BXYKKC[=?Ri`_=K0
+R4
+Z30 w1640001837
+Z31 8C:\Users\d4050\Documents\program\digital system\lab11\jump_cmd\stack.v
+Z32 FC:\Users\d4050\Documents\program\digital system\lab11\jump_cmd\stack.v
+L0 1
+R8
+r1
+31
+Z33 !s90 -reportprogress|300|-work|work|C:\Users\d4050\Documents\program\digital system\lab11\jump_cmd\stack.v|
+R10
+!i10b 1
+!s85 0
+Z34 !s108 1640259995.662000
+Z35 !s107 C:\Users\d4050\Documents\program\digital system\lab11\jump_cmd\stack.v|
+!s101 -O0
+vtest_cpu
+Z36 !s100 ZGjeV@b[ZoT5VB;aX70553
+Z37 I1G2`;HRbKVXZePG6o_LH]0
+Z38 VlTnbl^OCFK2X:Y3?FCg4z2
+R4
+Z39 w1640259764
+Z40 8C:/Users/d4050/Documents/program/digital system/lab11/jump_cmd/test_cpu.v
+Z41 FC:/Users/d4050/Documents/program/digital system/lab11/jump_cmd/test_cpu.v
+L0 1
+R8
+r1
+31
+Z42 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab11/jump_cmd/test_cpu.v|
+R10
+Z43 !s108 1640259995.605000
+Z44 !s107 C:/Users/d4050/Documents/program/digital system/lab11/jump_cmd/test_cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0

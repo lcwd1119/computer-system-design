@@ -1,0 +1,19 @@
+# MPLAB IDE generated this makefile for use with GNU make.
+# Project: Program_Rom.mcp
+# Date: Mon Jan 03 11:56:46 2022
+
+AS = MPASMWIN.exe
+CC = 
+LD = mplink.exe
+AR = mplib.exe
+RM = rm
+
+Program_Rom.cof : Program_Rom.o
+	$(CC) /p16F1826 "Program_Rom.o" /u_DEBUG /z__MPLAB_BUILD=1 /z__MPLAB_DEBUG=1 /o"Program_Rom.cof" /M"Program_Rom.map" /W /x
+
+Program_Rom.o : Program_Rom.asm D:/Program\ Files/Microchip/MPASM\ Suite/p16Lf1826.inc
+	$(AS) /q /p16F1826 "Program_Rom.asm" /l"Program_Rom.lst" /e"Program_Rom.err" /d__DEBUG=1
+
+clean : 
+	$(CC) "Program_Rom.o" "Program_Rom.hex" "Program_Rom.err" "Program_Rom.lst" "Program_Rom.cof"
+

@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\d4050\Documents\program\digital system\lab4\FSM_counter
+vpipeline_ALU
+Z1 !s100 YRkBgbQnRbYB:4`m3R<W81
+Z2 IagZ[X]^fBbz3^mkb@j?b80
+Z3 VSTOIS3Pbb_HQ@0LYTzV]P1
+Z4 dC:\Users\d4050\Documents\program\digital system\lab4\pipeline_ALU
+Z5 w1635442232
+Z6 8C:\Users\d4050\Documents\program\digital system\lab4\pipeline_ALU\pipeline_ALU.v
+Z7 FC:\Users\d4050\Documents\program\digital system\lab4\pipeline_ALU\pipeline_ALU.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:\Users\d4050\Documents\program\digital system\lab4\pipeline_ALU\pipeline_ALU.v|
+Z10 o-work work -O0
+Z11 npipeline_@a@l@u
+!i10b 1
+!s85 0
+Z12 !s108 1635444416.737000
+Z13 !s107 C:\Users\d4050\Documents\program\digital system\lab4\pipeline_ALU\pipeline_ALU.v|
+!s101 -O0
+vtest_pipeline_ALU
+!i10b 1
+!s100 VN50@SM=X0D9z]@baFB7C0
+Id_4<L8:BCZT9zf8;NVUbQ1
+Z14 V^mj@EUBlbM^YT36^:a2S61
+R4
+w1635444414
+Z15 8C:\Users\d4050\Documents\program\digital system\lab4\pipeline_ALU\test_pipeline_ALU.v
+Z16 FC:\Users\d4050\Documents\program\digital system\lab4\pipeline_ALU\test_pipeline_ALU.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1635444416.864000
+!s107 C:\Users\d4050\Documents\program\digital system\lab4\pipeline_ALU\test_pipeline_ALU.v|
+Z17 !s90 -reportprogress|300|-work|work|C:\Users\d4050\Documents\program\digital system\lab4\pipeline_ALU\test_pipeline_ALU.v|
+!s101 -O0
+R10
+Z18 ntest_pipeline_@a@l@u

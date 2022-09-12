@@ -1,0 +1,145 @@
+# Compile of RYG_FSM.v was successful.
+# Compile of RYG_FSM_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.RYG_FSM
+# vsim work.RYG_FSM 
+# Loading work.RYG_FSM
+# ** Error: (vsim-3033) C:/Users/d4050/Documents/program/digital system/lab3/RYG_FSM/RYG_FSM_test.v(10): Instantiation of 'RYB_FSM' failed. The design unit was not found.
+# 
+#         Region: /RYG_FSM
+#         Searched libraries:
+#             C:/Users/d4050/Documents/program/digital system/lab3/RYG_FSM/work
+# Error loading design
+vsim -voptargs=+acc work.RYG_FSM
+# vsim -voptargs=+acc work.RYG_FSM 
+# Loading work.RYG_FSM
+# ** Error: (vsim-3033) C:/Users/d4050/Documents/program/digital system/lab3/RYG_FSM/RYG_FSM_test.v(10): Instantiation of 'RYB_FSM' failed. The design unit was not found.
+# 
+#         Region: /RYG_FSM
+#         Searched libraries:
+#             C:/Users/d4050/Documents/program/digital system/lab3/RYG_FSM/work
+# Error loading design
+# Compile of RYG_FSM.v was successful.
+# Compile of RYG_FSM_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.RYG_FSM_test
+# vsim work.RYG_FSM_test 
+# Loading work.RYG_FSM_test
+# ** Error: (vsim-3033) C:/Users/d4050/Documents/program/digital system/lab3/RYG_FSM/RYG_FSM_test.v(11): Instantiation of 'RYB_FSM' failed. The design unit was not found.
+# 
+#         Region: /RYG_FSM_test
+#         Searched libraries:
+#             C:/Users/d4050/Documents/program/digital system/lab3/RYG_FSM/work
+# Error loading design
+vsim work.RYG_FSM_test
+# vsim work.RYG_FSM_test 
+# Loading work.RYG_FSM_test
+# ** Error: (vsim-3033) C:/Users/d4050/Documents/program/digital system/lab3/RYG_FSM/RYG_FSM_test.v(11): Instantiation of 'RYB_FSM' failed. The design unit was not found.
+# 
+#         Region: /RYG_FSM_test
+#         Searched libraries:
+#             C:/Users/d4050/Documents/program/digital system/lab3/RYG_FSM/work
+# Error loading design
+# Compile of RYG_FSM.v was successful.
+# Compile of RYG_FSM_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.RYG_FSM
+# vsim work.RYG_FSM 
+# Loading work.RYG_FSM
+quit -sim
+vlog -work work -O0 {C:\Users\d4050\Documents\program\digital system\lab3\RYG_FSM\RYG_FSM_test.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module RYG_FSM_test
+# 
+# Top level modules:
+# 	RYG_FSM_test
+vlog -work work -O0 {C:\Users\d4050\Documents\program\digital system\lab3\RYG_FSM\RYG_FSM.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module RYG_FSM
+# 
+# Top level modules:
+# 	RYG_FSM
+vsim work.RYG_FSM_test
+# vsim work.RYG_FSM_test 
+# Loading work.RYG_FSM_test
+# ** Error: (vsim-3033) C:/Users/d4050/Documents/program/digital system/lab3/RYG_FSM/RYG_FSM_test.v(11): Instantiation of 'RYB_FSM' failed. The design unit was not found.
+# 
+#         Region: /RYG_FSM_test
+#         Searched libraries:
+#             C:/Users/d4050/Documents/program/digital system/lab3/RYG_FSM/work
+# Error loading design
+# Compile of RYG_FSM.v was successful.
+# Compile of RYG_FSM_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.RYG_FSM_test
+# vsim work.RYG_FSM_test 
+# Loading work.RYG_FSM_test
+# ** Error: (vsim-3033) C:/Users/d4050/Documents/program/digital system/lab3/RYG_FSM/RYG_FSM_test.v(11): Instantiation of 'RYB_FSM' failed. The design unit was not found.
+# 
+#         Region: /RYG_FSM_test
+#         Searched libraries:
+#             C:/Users/d4050/Documents/program/digital system/lab3/RYG_FSM/work
+# Error loading design
+vsim work.RYG_FSM
+# vsim work.RYG_FSM 
+# Loading work.RYG_FSM
+quit -sim
+# Compile of RYG_FSM.v was successful.
+# Compile of RYG_FSM_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.RYG_FSM_test
+# vsim work.RYG_FSM_test 
+# Loading work.RYG_FSM_test
+# Loading work.RYG_FSM
+add wave -position insertpoint  \
+sim:/RYG_FSM_test/rst \
+sim:/RYG_FSM_test/clk \
+sim:/RYG_FSM_test/Y \
+sim:/RYG_FSM_test/R \
+sim:/RYG_FSM_test/G
+run -all
+# Break in Module RYG_FSM_test at C:/Users/d4050/Documents/program/digital system/lab3/RYG_FSM/RYG_FSM_test.v line 17
+# Compile of RYG_FSM.v was successful.
+# Compile of RYG_FSM_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+restart -f
+# Loading work.RYG_FSM_test
+# Loading work.RYG_FSM
+run -all
+# Break in Module RYG_FSM_test at C:/Users/d4050/Documents/program/digital system/lab3/RYG_FSM/RYG_FSM_test.v line 17
+# Compile of RYG_FSM.v was successful.
+# Compile of RYG_FSM_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+restart -f
+# Loading work.RYG_FSM_test
+# Loading work.RYG_FSM
+run -all
+# Break in Module RYG_FSM_test at C:/Users/d4050/Documents/program/digital system/lab3/RYG_FSM/RYG_FSM_test.v line 17
+# Compile of RYG_FSM.v was successful.
+# Compile of RYG_FSM_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+restart -f
+# Loading work.RYG_FSM_test
+# Loading work.RYG_FSM
+run -all
+# Break in Module RYG_FSM_test at C:/Users/d4050/Documents/program/digital system/lab3/RYG_FSM/RYG_FSM_test.v line 17
+# Compile of RYG_FSM.v was successful.
+# Compile of RYG_FSM_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+restart -f
+# Loading work.RYG_FSM_test
+# Loading work.RYG_FSM
+run -all
+# Break in Module RYG_FSM_test at C:/Users/d4050/Documents/program/digital system/lab3/RYG_FSM/RYG_FSM_test.v line 17
+# Compile of RYG_FSM.v was successful.
+# Compile of RYG_FSM_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+restart -f
+# Loading work.RYG_FSM_test
+# Loading work.RYG_FSM
+run -all
+# Break in Module RYG_FSM_test at C:/Users/d4050/Documents/program/digital system/lab3/RYG_FSM/RYG_FSM_test.v line 17
+restart -f
+run -all
+# Break in Module RYG_FSM_test at C:/Users/d4050/Documents/program/digital system/lab3/RYG_FSM/RYG_FSM_test.v line 17
+quit -sim

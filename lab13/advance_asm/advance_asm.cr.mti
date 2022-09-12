@@ -1,0 +1,36 @@
+{C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/stack.v} {1 {vlog -work work {C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/stack.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module stack
+
+Top level modules:
+	stack
+
+} {} {}} {C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/single_port_ram_128x8.v} {1 {vlog -work work {C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/single_port_ram_128x8.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module single_port_ram_128x8
+
+Top level modules:
+	single_port_ram_128x8
+
+} {} {}} {C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/test_cpu.v} {1 {vlog -work work {C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/test_cpu.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test_cpu
+
+Top level modules:
+	test_cpu
+
+} {} {}} {C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/cpu.v} {1 {vlog -work work {C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/cpu.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module cpu
+
+Top level modules:
+	cpu
+
+} {} {}} {C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/Program_Rom.v} {1 {vlog -work work {C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/Program_Rom.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Program_Rom
+
+Top level modules:
+	Program_Rom
+
+} {} {}}

@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Program Files\altera\13.1
+vRYG_FSM
+Z1 IW;D`T74>W[l25OP=oFcBS3
+Z2 VH6=OdfiYRXEMA573oC9Jz2
+Z3 dC:\Users\d4050\Documents\program\digital system\lab3\RYG_FSM
+Z4 w1634841738
+Z5 8C:\Users\d4050\Documents\program\digital system\lab3\RYG_FSM\RYG_FSM.v
+Z6 FC:\Users\d4050\Documents\program\digital system\lab3\RYG_FSM\RYG_FSM.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:\Users\d4050\Documents\program\digital system\lab3\RYG_FSM\RYG_FSM.v|
+Z9 o-work work -O0
+Z10 n@r@y@g_@f@s@m
+!i10b 1
+Z11 !s100 XHP<@jnJ7nVES:M53d1Nj1
+!s85 0
+Z12 !s108 1634841742.851000
+Z13 !s107 C:\Users\d4050\Documents\program\digital system\lab3\RYG_FSM\RYG_FSM.v|
+!s101 -O0
+vRYG_FSM_test
+!i10b 1
+Z14 !s100 i;R=E2B9nfGPz[@CTYM^I0
+Z15 IOO8AQiG`03Ff^`g>7]MP<2
+Z16 V7CP]:gn@BO0FOaB?g:]oa2
+R3
+Z17 w1634841553
+Z18 8C:\Users\d4050\Documents\program\digital system\lab3\RYG_FSM\RYG_FSM_test.v
+Z19 FC:\Users\d4050\Documents\program\digital system\lab3\RYG_FSM\RYG_FSM_test.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1634841742.917000
+!s107 C:\Users\d4050\Documents\program\digital system\lab3\RYG_FSM\RYG_FSM_test.v|
+Z20 !s90 -reportprogress|300|-work|work|C:\Users\d4050\Documents\program\digital system\lab3\RYG_FSM\RYG_FSM_test.v|
+!s101 -O0
+R9
+Z21 n@r@y@g_@f@s@m_test

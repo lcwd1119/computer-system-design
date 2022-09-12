@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Program Files\altera\13.1
+vFSM_counter
+Z1 !s100 CG=M8b>SYg:=iS]J4H;Pa3
+Z2 IETNJKhi2i`i=C0_@_VeQf3
+Z3 VE;z_QI04ZbU=2diePNmn21
+Z4 dC:\Users\d4050\Documents\program\digital system\lab4\FSM_counter
+Z5 w1635440855
+Z6 8C:/Users/d4050/Documents/program/digital system/lab4/FSM_counter/FSM_counter.v
+Z7 FC:/Users/d4050/Documents/program/digital system/lab4/FSM_counter/FSM_counter.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab4/FSM_counter/FSM_counter.v|
+Z10 o-work work -O0
+Z11 n@f@s@m_counter
+!i10b 1
+!s85 0
+Z12 !s108 1635444804.343000
+Z13 !s107 C:/Users/d4050/Documents/program/digital system/lab4/FSM_counter/FSM_counter.v|
+!s101 -O0
+vtest_FSM_counter
+!i10b 1
+Z14 !s100 WE`kZ3zX7e^]6E2jnlZF@0
+Z15 I1XIg=jcHGLJR^bkCc9DYb3
+Z16 VVD9;PfTP[9goO0V@1<6dQ2
+R4
+Z17 w1635444673
+Z18 8C:/Users/d4050/Documents/program/digital system/lab4/FSM_counter/test_FSM_counter.v
+Z19 FC:/Users/d4050/Documents/program/digital system/lab4/FSM_counter/test_FSM_counter.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1635444804.475000
+!s107 C:/Users/d4050/Documents/program/digital system/lab4/FSM_counter/test_FSM_counter.v|
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab4/FSM_counter/test_FSM_counter.v|
+!s101 -O0
+R10
+Z21 ntest_@f@s@m_counter

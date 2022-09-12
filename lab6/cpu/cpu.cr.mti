@@ -1,0 +1,15 @@
+{C:/Users/d4050/Documents/program/digital system/lab6/cpu/ROM.v} {1 {vlog -work work {C:\Users\d4050\Documents\program\digital system\lab6\cpu\ROM.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ROM
+
+Top level modules:
+	ROM
+
+} {} {}} {C:/Users/d4050/Documents/program/digital system/lab6/cpu/test_cpu.v} {1 {vlog -work work {C:\Users\d4050\Documents\program\digital system\lab6\cpu\test_cpu.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test_cpu
+
+Top level modules:
+	test_cpu
+
+} {} {}}

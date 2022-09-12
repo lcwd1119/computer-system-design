@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Program Files\altera\13.1
+vBCD_counter
+Z1 IIRe^@E4DR1lYmDHHQ62KD2
+Z2 VagRfN@Sh54l7?b7bXSm=G2
+Z3 dC:\Users\d4050\Documents\program\digital system\lab2-2\BCD_counter
+Z4 w1633802969
+Z5 8C:/Users/d4050/Documents/program/digital system/lab2-2/BCD_counter/BCD_counter.v
+Z6 FC:/Users/d4050/Documents/program/digital system/lab2-2/BCD_counter/BCD_counter.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab2-2/BCD_counter/BCD_counter.v|
+Z9 o-work work -O0
+Z10 n@b@c@d_counter
+!i10b 1
+Z11 !s100 QGmY`SAJe22dDWITc^XM62
+!s85 0
+Z12 !s108 1633802971.256000
+Z13 !s107 C:/Users/d4050/Documents/program/digital system/lab2-2/BCD_counter/BCD_counter.v|
+!s101 -O0
+vtest_BCD_counter
+!i10b 1
+Z14 !s100 VcMEQMZnnbPl?lTnKZ8L11
+Z15 I7hEXf2k?9gan0YN;<XXjE0
+Z16 VcF``GlVUmaVEIj11DBjF03
+R3
+Z17 w1633801902
+Z18 8C:/Users/d4050/Documents/program/digital system/lab2-2/BCD_counter/test_BCD_counter.v
+Z19 FC:/Users/d4050/Documents/program/digital system/lab2-2/BCD_counter/test_BCD_counter.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1633802971.375000
+!s107 C:/Users/d4050/Documents/program/digital system/lab2-2/BCD_counter/test_BCD_counter.v|
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab2-2/BCD_counter/test_BCD_counter.v|
+!s101 -O0
+R9
+Z21 ntest_@b@c@d_counter

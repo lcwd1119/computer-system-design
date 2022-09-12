@@ -1,0 +1,82 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\d4050\Documents\program\digital system\lab6\cpu
+vcpu
+Z1 !s100 JX?O9YkD?BZPSdjkMQZ_j2
+Z2 I=?a_^oUOcL=ZRKz@lKDok2
+Z3 VVLSQVd:i>e;=i>O^K>dVf3
+Z4 dC:\Users\d4050\Documents\program\digital system\lab7\reg_addr
+Z5 w1637854664
+Z6 8C:/Users/d4050/Documents/program/digital system/lab7/reg_addr/cpu.v
+Z7 FC:/Users/d4050/Documents/program/digital system/lab7/reg_addr/cpu.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab7/reg_addr/cpu.v|
+Z10 o-work work -O0
+Z11 !s108 1637854703.186000
+Z12 !s107 C:/Users/d4050/Documents/program/digital system/lab7/reg_addr/cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vProgram_Rom
+Z13 I]nlhOc3<Aeioig7lT>fmz1
+Z14 V[J?EiRjB;A1Y`=EzF>j9K0
+R4
+Z15 w1637854323
+Z16 8C:/Users/d4050/Documents/program/digital system/lab7/reg_addr/Program_Rom.v
+Z17 FC:/Users/d4050/Documents/program/digital system/lab7/reg_addr/Program_Rom.v
+L0 1
+R8
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab7/reg_addr/Program_Rom.v|
+R10
+Z19 n@program_@rom
+Z20 !s100 U>UT5d?la^@Qbk;98LAk80
+Z21 !s108 1637854703.116000
+Z22 !s107 C:/Users/d4050/Documents/program/digital system/lab7/reg_addr/Program_Rom.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsingle_port_ram_128x8
+!i10b 1
+Z23 !s100 PlE2kHM_^4E<AbP>jFTl`0
+Z24 IJi4hMaE3<RS8zcUeX<9?a2
+Z25 VzZNV<GVAnfl2nc:TUS4Zc0
+R4
+Z26 w1637547992
+Z27 8C:/Users/d4050/Documents/program/digital system/lab7/reg_addr/single_port_ram_128x8.v
+Z28 FC:/Users/d4050/Documents/program/digital system/lab7/reg_addr/single_port_ram_128x8.v
+L0 4
+R8
+r1
+!s85 0
+31
+!s108 1637854703.390000
+!s107 C:/Users/d4050/Documents/program/digital system/lab7/reg_addr/single_port_ram_128x8.v|
+Z29 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab7/reg_addr/single_port_ram_128x8.v|
+!s101 -O0
+R10
+vtest_cpu
+Z30 IZn9O:gBZh3ZS?k[J:Q>9S1
+Z31 VlTnbl^OCFK2X:Y3?FCg4z2
+R4
+Z32 w1637854669
+Z33 8C:/Users/d4050/Documents/program/digital system/lab7/reg_addr/test_cpu.v
+Z34 FC:/Users/d4050/Documents/program/digital system/lab7/reg_addr/test_cpu.v
+L0 1
+R8
+r1
+31
+Z35 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab7/reg_addr/test_cpu.v|
+R10
+!i10b 1
+Z36 !s100 oXFRe`VL>lbXmcV^g?I2Y0
+!s85 0
+Z37 !s108 1637854703.299000
+Z38 !s107 C:/Users/d4050/Documents/program/digital system/lab7/reg_addr/test_cpu.v|
+!s101 -O0

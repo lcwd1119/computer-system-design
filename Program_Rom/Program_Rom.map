@@ -1,0 +1,36 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Mon Jan 03 12:03:20 2022
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x00006c
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000035      
+            54 out of 2311 program addresses used, program memory utilization is 2%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                euclidean   0x000024    program     static C:\Users\d4050\Documents\program\digital system\Program_Rom\Program_Rom.asm
+                      mod   0x00002e    program     static C:\Users\d4050\Documents\program\digital system\Program_Rom\Program_Rom.asm
+                    start   0x000000    program     static C:\Users\d4050\Documents\program\digital system\Program_Rom\Program_Rom.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    start   0x000000    program     static C:\Users\d4050\Documents\program\digital system\Program_Rom\Program_Rom.asm
+                euclidean   0x000024    program     static C:\Users\d4050\Documents\program\digital system\Program_Rom\Program_Rom.asm
+                      mod   0x00002e    program     static C:\Users\d4050\Documents\program\digital system\Program_Rom\Program_Rom.asm
+
+

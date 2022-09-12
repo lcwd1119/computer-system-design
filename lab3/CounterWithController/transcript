@@ -1,0 +1,519 @@
+# Compile of CounterWithController.v failed with 1 errors.
+# Compile of CounterWithController.v failed with 1 errors.
+# Compile of CounterWithController.v failed with 1 errors.
+# Compile of CounterWithController.v failed with 1 errors.
+# Compile of CounterWithController.v failed with 1 errors.
+# Compile of CounterWithController.v failed with 1 errors.
+# Compile of CounterWithController.v failed with 1 errors.
+# Compile of CounterWithController.v failed with 1 errors.
+# Compile of CounterWithController.v failed with 16 errors.
+# Compile of CounterWithController.v failed with 2 errors.
+# Compile of CounterWithController.v failed with 2 errors.
+# Compile of CounterWithController.v failed with 1 errors.
+# Compile of CounterWithController.v was successful.
+# Compile of CounterWithController.v was successful.
+# Compile of CounterWithController_test.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of CounterWithController.v was successful.
+# Compile of CounterWithController_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+# Load canceled
+vsim work.CounterWithController_test
+# vsim work.CounterWithController_test 
+# Loading work.CounterWithController_test
+# Loading work.CounterWithController
+# ** Warning: (vsim-3015) C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController_test.v(9): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'finalout'. The port definition is at: C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController.v(4).
+# 
+#         Region: /CounterWithController_test/test1
+add wave -position insertpoint  \
+sim:/CounterWithController_test/rst \
+sim:/CounterWithController_test/out \
+sim:/CounterWithController_test/clk
+run -all
+# Break in Module CounterWithController_test at C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController_test.v line 14
+quit -sim
+vsim work.CounterWithController_test
+# vsim work.CounterWithController_test 
+# Loading work.CounterWithController_test
+# Loading work.CounterWithController
+# ** Warning: (vsim-3015) C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController_test.v(9): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'finalout'. The port definition is at: C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController.v(4).
+# 
+#         Region: /CounterWithController_test/test1
+add wave -position insertpoint  \
+sim:/CounterWithController_test/rst \
+sim:/CounterWithController_test/out \
+sim:/CounterWithController_test/clk
+step
+step
+step
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+add wave -position insertpoint  \
+sim:/CounterWithController_test/test1/rst \
+sim:/CounterWithController_test/test1/next_state \
+sim:/CounterWithController_test/test1/loadw \
+sim:/CounterWithController_test/test1/finalout \
+sim:/CounterWithController_test/test1/cp2 \
+sim:/CounterWithController_test/test1/cp1 \
+sim:/CounterWithController_test/test1/counter2_out \
+sim:/CounterWithController_test/test1/counter1_out \
+sim:/CounterWithController_test/test1/clk
+step -over
+step
+step
+step
+step
+step
+quit -sim
+vsim work.CounterWithController_test
+# vsim work.CounterWithController_test 
+# Loading work.CounterWithController_test
+# Loading work.CounterWithController
+# ** Warning: (vsim-3015) C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController_test.v(9): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'finalout'. The port definition is at: C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController.v(4).
+# 
+#         Region: /CounterWithController_test/test1
+add wave -position insertpoint  \
+sim:/CounterWithController_test/rst \
+sim:/CounterWithController_test/out \
+sim:/CounterWithController_test/clk
+step -over
+add wave -position insertpoint  \
+sim:/CounterWithController_test/test1/rst \
+sim:/CounterWithController_test/test1/next_state \
+sim:/CounterWithController_test/test1/loadw \
+sim:/CounterWithController_test/test1/finalout \
+sim:/CounterWithController_test/test1/cp2 \
+sim:/CounterWithController_test/test1/cp1 \
+sim:/CounterWithController_test/test1/counter2_out \
+sim:/CounterWithController_test/test1/counter1_out \
+sim:/CounterWithController_test/test1/clk
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+# Next activity is in 5 ps.
+step -over
+step -over
+step -over
+step -over
+# Next activity is in 5 ps.
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+# Next activity is in 5 ps.
+step -over
+step -over
+step -over
+step -over
+# Next activity is in 5 ps.
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+# Next activity is in 5 ps.
+step -over
+step -over
+step -over
+step -over
+# Next activity is in 5 ps.
+step -over
+step -over
+step -over
+step -over
+step -over
+quit -sim
+# Compile of CounterWithController.v failed with 1 errors.
+# Compile of CounterWithController_test.v failed with 1 errors.
+# 2 compiles, 2 failed with 2 errors. 
+# Compile of CounterWithController.v failed with 1 errors.
+# Compile of CounterWithController_test.v failed with 1 errors.
+# 2 compiles, 2 failed with 2 errors. 
+# Compile of CounterWithController.v failed with 1 errors.
+# Compile of CounterWithController_test.v was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of CounterWithController.v was successful.
+# Compile of CounterWithController_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.CounterWithController_test
+# vsim work.CounterWithController_test 
+# Loading work.CounterWithController_test
+# Loading work.CounterWithController
+# ** Warning: (vsim-3015) C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController_test.v(10): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'finalout'. The port definition is at: C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController.v(5).
+# 
+#         Region: /CounterWithController_test/test1
+step -over
+add wave -position insertpoint  \
+sim:/CounterWithController_test/test1/rst \
+sim:/CounterWithController_test/test1/next_state \
+sim:/CounterWithController_test/test1/loadw \
+sim:/CounterWithController_test/test1/finalout \
+sim:/CounterWithController_test/test1/cp2 \
+sim:/CounterWithController_test/test1/cp1 \
+sim:/CounterWithController_test/test1/counter2_out \
+sim:/CounterWithController_test/test1/counter1_out \
+sim:/CounterWithController_test/test1/clk
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step -over
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+# Next activity is in 5 ps.
+step
+step
+step
+# Next activity is in 5 ps.
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+# Next activity is in 5 ps.
+step
+step
+step
+step
+# Next activity is in 5 ps.
+step
+step
+step
+step
+step
+step
+step
+step
+run -all
+# Break in Module CounterWithController_test at C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController_test.v line 15
+quit -sim
+# Compile of CounterWithController.v was successful.
+# Compile of CounterWithController_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of CounterWithController.v was successful.
+# Compile of CounterWithController_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.CounterWithController_test
+# vsim work.CounterWithController_test 
+# Loading work.CounterWithController_test
+# Loading work.CounterWithController
+# ** Warning: (vsim-3015) C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController_test.v(10): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'finalout'. The port definition is at: C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController.v(5).
+# 
+#         Region: /CounterWithController_test/test1
+step -over
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+# Next activity is in 5 ps.
+step
+step
+step
+# Next activity is in 5 ps.
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+# Next activity is in 5 ps.
+step
+step
+step
+step
+# Next activity is in 5 ps.
+step
+step
+step
+step
+step
+add wave -position insertpoint  \
+sim:/CounterWithController_test/test1/rst \
+sim:/CounterWithController_test/test1/next_state \
+sim:/CounterWithController_test/test1/loadw \
+sim:/CounterWithController_test/test1/finalout \
+sim:/CounterWithController_test/test1/cp2 \
+sim:/CounterWithController_test/test1/cp1 \
+sim:/CounterWithController_test/test1/counter2_out \
+sim:/CounterWithController_test/test1/counter1_out \
+sim:/CounterWithController_test/test1/clk
+quit -sim
+# Compile of CounterWithController.v failed with 15 errors.
+# Compile of CounterWithController_test.v was successful.
+# 2 compiles, 1 failed with 15 errors. 
+# Compile of CounterWithController.v was successful.
+# Compile of CounterWithController_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of CounterWithController.v was successful.
+# Compile of CounterWithController_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.CounterWithController_test
+# vsim work.CounterWithController_test 
+# Loading work.CounterWithController_test
+# Loading work.CounterWithController
+# ** Warning: (vsim-3015) C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController_test.v(10): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'finalout'. The port definition is at: C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController.v(5).
+# 
+#         Region: /CounterWithController_test/test1
+add wave -position insertpoint  \
+sim:/CounterWithController_test/rst \
+sim:/CounterWithController_test/out \
+sim:/CounterWithController_test/loadw \
+sim:/CounterWithController_test/clk
+run -all
+# Break in Module CounterWithController_test at C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController_test.v line 15
+quit -sim
+vsim work.CounterWithController_test
+# vsim work.CounterWithController_test 
+# Loading work.CounterWithController_test
+# Loading work.CounterWithController
+# ** Warning: (vsim-3015) C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController_test.v(10): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'finalout'. The port definition is at: C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController.v(5).
+# 
+#         Region: /CounterWithController_test/test1
+step -over
+step
+step
+step
+step
+step
+step
+add wave -position insertpoint  \
+sim:/CounterWithController_test/test1/rst \
+sim:/CounterWithController_test/test1/next_state \
+sim:/CounterWithController_test/test1/loadw \
+sim:/CounterWithController_test/test1/finalout \
+sim:/CounterWithController_test/test1/cp2 \
+sim:/CounterWithController_test/test1/cp1 \
+sim:/CounterWithController_test/test1/counter2_out \
+sim:/CounterWithController_test/test1/counter1_out \
+sim:/CounterWithController_test/test1/clk
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+# Next activity is in 5 ps.
+step
+step
+step
+# Next activity is in 5 ps.
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+# Next activity is in 5 ps.
+step
+quit -sim
+vsim work.CounterWithController_test
+# vsim work.CounterWithController_test 
+# Loading work.CounterWithController_test
+# Loading work.CounterWithController
+# ** Warning: (vsim-3015) C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController_test.v(10): [PCDPC] - Port size (1 or 1) does not match connection size (4) for port 'finalout'. The port definition is at: C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController.v(5).
+# 
+#         Region: /CounterWithController_test/test1
+add wave -position insertpoint  \
+sim:/CounterWithController_test/rst \
+sim:/CounterWithController_test/out \
+sim:/CounterWithController_test/loadw \
+sim:/CounterWithController_test/clk
+run -all
+# Break in Module CounterWithController_test at C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController_test.v line 15
+# WARNING: No extended dataflow license exists
+# Compile of CounterWithController.v was successful.
+# Compile of CounterWithController_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+restart -f
+# Loading work.CounterWithController_test
+# Loading work.CounterWithController
+run -all
+# Break in Module CounterWithController_test at C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController_test.v line 15
+# Compile of CounterWithController.v was successful.
+# Compile of CounterWithController_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+restart -f
+# Loading work.CounterWithController_test
+# Loading work.CounterWithController
+run -all
+# Break in Module CounterWithController_test at C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController_test.v line 15
+# Compile of CounterWithController.v was successful.
+# Compile of CounterWithController_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+restart -f
+# Loading work.CounterWithController_test
+# Loading work.CounterWithController
+run -all
+# Break in Module CounterWithController_test at C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController_test.v line 15
+quit -sim
+# Compile of CounterWithController.v was successful.
+# Compile of CounterWithController_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.CounterWithController_test
+# vsim work.CounterWithController_test 
+# Loading work.CounterWithController_test
+# Loading work.CounterWithController
+add wave -position insertpoint  \
+sim:/CounterWithController_test/rst \
+sim:/CounterWithController_test/out \
+sim:/CounterWithController_test/loadw \
+sim:/CounterWithController_test/clk
+run -all
+# Break in Module CounterWithController_test at C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController_test.v line 15
+add wave -position insertpoint  \
+sim:/CounterWithController_test/test1/cp2 \
+sim:/CounterWithController_test/test1/cp1
+run -all
+# Break key hit 
+# Break in Module CounterWithController_test at C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController_test.v line 11
+run -all
+# Compile of CounterWithController.v was successful.
+# Compile of CounterWithController_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+# Break key hit 
+# Simulation stop requested.
+restart -f
+restart -f
+restart -f
+# Loading work.CounterWithController_test
+# Loading work.CounterWithController
+restart -f
+add wave -position insertpoint  \
+sim:/CounterWithController_test/test1/cp2 \
+sim:/CounterWithController_test/test1/cp1
+run -all
+# Break in Module CounterWithController_test at C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController_test.v line 15
+# Compile of CounterWithController.v was successful.
+# Compile of CounterWithController_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+restart -f
+# Loading work.CounterWithController_test
+# Loading work.CounterWithController
+run -all
+# Break in Module CounterWithController_test at C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController_test.v line 15
+quit -sim
+# Compile of CounterWithController.v was successful.
+# Compile of CounterWithController_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+# reading D:\Program Files\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini
+# Loading project RYB_FSM
+# Compile of RYB_FSM.v failed with 9 errors.
+# Compile of RYB_FSM.v was successful.
+# Compile of RYB_FSM.v was successful.
+# Compile of RYB_FSM.v was successful.
+# Compile of RYB_FSM_test.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of RYB_FSM.v was successful.
+# Compile of RYB_FSM_test.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of RYB_FSM.v was successful.
+# Compile of RYB_FSM_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of RYB_FSM.v was successful.
+# Compile of RYB_FSM_test.v was successful.
+# 2 compiles, 0 failed with no errors. 
+# Load canceled
+vlog -work {C:/Users/d4050/Documents/program/digital system/lab3/RYB_FSM/work} -refresh -force_refresh
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Refreshing module RYB_FSM
+vcom -work {C:/Users/d4050/Documents/program/digital system/lab3/RYB_FSM/work} -refresh -force_refresh
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Skipping module RYB_FSM
+# reading D:\Program Files\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini

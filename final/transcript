@@ -1,0 +1,590 @@
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+vsim work.test_cpu
+# vsim work.test_cpu 
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+add wave -position insertpoint  \
+sim:/test_cpu/reset \
+sim:/test_cpu/clk
+add wave -position insertpoint  \
+sim:/test_cpu/cpu1/ps
+add wave -position insertpoint  \
+sim:/test_cpu/cpu1/w_q
+add wave -position insertpoint  \
+{sim:/test_cpu/cpu1/ram/ram[37]}
+add wave -position insertpoint  \
+sim:/test_cpu/cpu1/carry
+add wave -position insertpoint  \
+sim:/test_cpu/cpu1/CSS
+add wave -position insertpoint  \
+sim:/test_cpu/cpu1/ADDWFC
+add wave -position insertpoint  \
+sim:/test_cpu/cpu1/ADDWF
+add wave -position insertpoint  \
+sim:/test_cpu/cpu1/ADDLW
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+add wave -position insertpoint  \
+sim:/test_cpu/cpu1/alu_zero
+restart
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+add wave -position insertpoint  \
+sim:/test_cpu/cpu1/alu_q
+restart
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+restart
+# Compile of cpu.v failed with 1 errors.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 1 failed with 1 error. 
+# Compile of cpu.v failed with 1 errors.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 1 failed with 1 error. 
+# Compile of cpu.v failed with 1 errors.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 1 failed with 1 error. 
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v failed with 1 errors.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 1 failed with 1 error. 
+restart
+# Loading work.test_cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run
+# Compile of cpu.v failed with 1 errors.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 1 failed with 1 error. 
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run
+run
+run
+run
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run
+run
+run
+run
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/final/test_cpu.v line 15

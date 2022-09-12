@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\d4050\Documents\program\digital system\lab3
+vCounterWithController
+Z1 I:0RMIE5gc_E6NFc8Z`7041
+Z2 V2gm1Wk49?<;NIWFY8lN1E2
+Z3 dC:\Users\d4050\Documents\program\digital system\lab3\CounterWithController
+Z4 w1634836995
+Z5 8C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController.v
+Z6 FC:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController.v|
+Z9 o-work work -O0
+Z10 n@counter@with@controller
+!i10b 1
+Z11 !s100 :8CDhbo]lzbmaTGLoM^ob0
+!s85 0
+Z12 !s108 1634837449.558000
+Z13 !s107 C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController.v|
+!s101 -O0
+vCounterWithController_test
+!i10b 1
+!s100 Re:HElY40F42d4[A0gJnB3
+IQjij;V@ki0^`m<lYzJoI81
+Z14 V1<Ik>IC[`_ER4Gb1f_olX0
+R3
+w1634836941
+Z15 8C:\Users\d4050\Documents\program\digital system\lab3\CounterWithController\CounterWithController_test.v
+Z16 FC:\Users\d4050\Documents\program\digital system\lab3\CounterWithController\CounterWithController_test.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1634837449.701000
+!s107 C:\Users\d4050\Documents\program\digital system\lab3\CounterWithController\CounterWithController_test.v|
+Z17 !s90 -reportprogress|300|-work|work|C:\Users\d4050\Documents\program\digital system\lab3\CounterWithController\CounterWithController_test.v|
+!s101 -O0
+R9
+Z18 n@counter@with@controller_test

@@ -1,0 +1,89 @@
+# Reading D:/Program Files/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile {C:/Users/d4050/Documents/program/digital system/lab12/pipeline/pipeline.mpf} 
+# Loading project pipeline
+# reading D:\Program Files\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini
+# Loading project advance_asm
+cd {C:/Users/d4050/Documents/program/digital system/lab13/advance_asm}
+# reading D:\Program Files\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini
+# Loading project advance_asm
+# Compile of cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# 5 compiles, 0 failed with no errors. 
+vsim -gui work.test_cpu
+# vsim -gui work.test_cpu 
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+add wave -position insertpoint  \
+sim:/test_cpu/cpu1/port_b_out
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/test_cpu.v line 15
+add wave -position insertpoint sim:/test_cpu/#INITIAL#12/*
+add wave -position insertpoint  \
+sim:/test_cpu/cpu1/ram/ram \
+{sim:/test_cpu/cpu1/ram/ram[37]} \
+{sim:/test_cpu/cpu1/ram/ram[36]}
+add wave -position insertpoint  \
+sim:/test_cpu/cpu1/port_b_out
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/test_cpu.v line 15
+# Compile of cpu.v was successful.
+# Compile of single_port_ram_128x8.v was successful.
+# Compile of stack.v was successful.
+# Compile of test_cpu.v was successful.
+# Compile of Program_Rom.v was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.test_cpu
+# Loading work.cpu
+# Loading work.stack
+# Loading work.Program_Rom
+# Loading work.single_port_ram_128x8
+run -all
+# Break in Module test_cpu at C:/Users/d4050/Documents/program/digital system/lab13/advance_asm/test_cpu.v line 15

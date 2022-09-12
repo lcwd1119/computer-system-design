@@ -1,0 +1,101 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\d4050\Documents\program\digital system\lab13\advance_asm
+vcpu
+Z1 Ii9M7Z`PWFkRZBFA;jGIjZ1
+Z2 VA6EXoD?Vi7Gj?83=:jHB<1
+Z3 dC:\Users\d4050\Documents\program\digital system\final
+Z4 w1641783562
+Z5 8C:/Users/d4050/Documents/program/digital system/final/cpu.v
+Z6 FC:/Users/d4050/Documents/program/digital system/final/cpu.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/final/cpu.v|
+Z9 o-work work -O0
+Z10 !s100 JI_e2G?JG3]@N=cOFC4Zd2
+Z11 !s108 1641783564.673000
+Z12 !s107 C:/Users/d4050/Documents/program/digital system/final/cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vProgram_Rom
+!i10b 1
+Z13 !s100 DBA5eX=lR=@^el9:UKkUM1
+Z14 IPfo3z0RS^BRB]DKJV;9IT2
+Z15 V[J?EiRjB;A1Y`=EzF>j9K0
+R3
+Z16 w1641741574
+Z17 8C:/Users/d4050/Documents/program/digital system/final/Program_Rom.v
+Z18 FC:/Users/d4050/Documents/program/digital system/final/Program_Rom.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1641783564.974000
+!s107 C:/Users/d4050/Documents/program/digital system/final/Program_Rom.v|
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/final/Program_Rom.v|
+!s101 -O0
+R9
+Z20 n@program_@rom
+vsingle_port_ram_128x8
+Z21 !s100 UH;JjKk8MM7A[^o^O2>eL3
+Z22 IUBDgg8:i:?;7Yecjk?GI`0
+Z23 VzZNV<GVAnfl2nc:TUS4Zc0
+R3
+Z24 w1637547992
+Z25 8C:/Users/d4050/Documents/program/digital system/final/single_port_ram_128x8.v
+Z26 FC:/Users/d4050/Documents/program/digital system/final/single_port_ram_128x8.v
+L0 4
+R7
+r1
+31
+Z27 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/final/single_port_ram_128x8.v|
+R9
+Z28 !s108 1641783564.814000
+Z29 !s107 C:/Users/d4050/Documents/program/digital system/final/single_port_ram_128x8.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vstack
+Z30 !s100 [i0N`If6aROK0XH2EC8AA3
+Z31 IM^]=UPM]nSH6RbS8k06?_0
+Z32 VWPZMb5BXYKKC[=?Ri`_=K0
+R3
+Z33 w1640001837
+Z34 8C:/Users/d4050/Documents/program/digital system/final/stack.v
+Z35 FC:/Users/d4050/Documents/program/digital system/final/stack.v
+L0 1
+R7
+r1
+31
+Z36 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/final/stack.v|
+R9
+Z37 !s108 1641783564.869000
+Z38 !s107 C:/Users/d4050/Documents/program/digital system/final/stack.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtest_cpu
+Z39 !s100 ;dFULS8Gh^[oF@C_CFJAf1
+Z40 ITmnc[AM`g3Hbg8DB:NkL72
+Z41 VlTnbl^OCFK2X:Y3?FCg4z2
+R3
+Z42 w1641780586
+Z43 8C:/Users/d4050/Documents/program/digital system/final/test_cpu.v
+Z44 FC:/Users/d4050/Documents/program/digital system/final/test_cpu.v
+L0 1
+R7
+r1
+31
+Z45 !s90 -reportprogress|300|-work|work|C:/Users/d4050/Documents/program/digital system/final/test_cpu.v|
+R9
+!i10b 1
+!s85 0
+Z46 !s108 1641783564.921000
+Z47 !s107 C:/Users/d4050/Documents/program/digital system/final/test_cpu.v|
+!s101 -O0

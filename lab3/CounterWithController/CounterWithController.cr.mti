@@ -1,0 +1,15 @@
+{C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController_test.v} {1 {vlog -work work {C:\Users\d4050\Documents\program\digital system\lab3\CounterWithController\CounterWithController_test.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CounterWithController_test
+
+Top level modules:
+	CounterWithController_test
+
+} {} {}} {C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController.v} {1 {vlog -work work {C:/Users/d4050/Documents/program/digital system/lab3/CounterWithController/CounterWithController.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CounterWithController
+
+Top level modules:
+	CounterWithController
+
+} {} {}}

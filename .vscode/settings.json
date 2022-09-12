@@ -1,0 +1,4 @@
+{
+    "verilog.linting.linter": "modelsim",
+    "verilog.linting.modelsim.runAtFileLocation": true
+}

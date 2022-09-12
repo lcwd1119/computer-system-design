@@ -1,0 +1,43 @@
+{C:/Users/d4050/Documents/program/digital system/lab12/pipeline/single_port_ram_128x8.v} {1 {vlog -work work {C:/Users/d4050/Documents/program/digital system/lab12/pipeline/single_port_ram_128x8.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module single_port_ram_128x8
+
+Top level modules:
+	single_port_ram_128x8
+
+} {} {}} {C:/Users/d4050/Documents/program/digital system/lab12/pipeline/7segment_decoder.v} {1 {vlog -work work {C:/Users/d4050/Documents/program/digital system/lab12/pipeline/7segment_decoder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module seven_seg_decoder
+
+Top level modules:
+	seven_seg_decoder
+
+} {} {}} {C:/Users/d4050/Documents/program/digital system/lab12/pipeline/test_cpu.v} {1 {vlog -work work {C:/Users/d4050/Documents/program/digital system/lab12/pipeline/test_cpu.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test_cpu
+
+Top level modules:
+	test_cpu
+
+} {} {}} {C:/Users/d4050/Documents/program/digital system/lab12/pipeline/cpu.v} {1 {vlog -work work {C:/Users/d4050/Documents/program/digital system/lab12/pipeline/cpu.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module cpu
+
+Top level modules:
+	cpu
+
+} {} {}} {C:/Users/d4050/Documents/program/digital system/lab12/pipeline/Program_Rom.v} {1 {vlog -work work {C:/Users/d4050/Documents/program/digital system/lab12/pipeline/Program_Rom.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Program_Rom
+
+Top level modules:
+	Program_Rom
+
+} {} {}} {C:/Users/d4050/Documents/program/digital system/lab12/pipeline/stack.v} {1 {vlog -work work {C:/Users/d4050/Documents/program/digital system/lab12/pipeline/stack.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module stack
+
+Top level modules:
+	stack
+
+} {} {}}

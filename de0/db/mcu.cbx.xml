@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="mcu">
+		<CBX_INST_ENTRY INSTANCE_NAME="|mcu|cpu:cpu1|single_port_ram_128x8:ram|altsyncram:ram_rtl_0" CBX_FILE_NAME="altsyncram_3cc1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|mcu|cpu:cpu1|stack:Stack|altsyncram:stack_rtl_0" CBX_FILE_NAME="altsyncram_9bc1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

@@ -1,0 +1,15 @@
+{C:/Users/d4050/Documents/program/digital system/lab4/pipeline_ALU/test_pipeline_ALU.v} {1 {vlog -work work {C:\Users\d4050\Documents\program\digital system\lab4\pipeline_ALU\test_pipeline_ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test_pipeline_ALU
+
+Top level modules:
+	test_pipeline_ALU
+
+} {} {}} {C:/Users/d4050/Documents/program/digital system/lab4/pipeline_ALU/pipeline_ALU.v} {1 {vlog -work work {C:\Users\d4050\Documents\program\digital system\lab4\pipeline_ALU\pipeline_ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pipeline_ALU
+
+Top level modules:
+	pipeline_ALU
+
+} {} {}}
